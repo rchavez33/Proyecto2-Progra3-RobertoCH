@@ -1,0 +1,17 @@
+Estudiante: Roberto Chaves Brenes
+ID: 114750520
+
+Profesor no pude cumplir con todos los requerimientos, los compañeros de mi grupo abandonaron el curso e hice lo que pude con el tiempo que tuve.
+
+Cree las tablas de:
+Usuarios.
+Productos.
+Empleados.
+
+Para todos les cree sus procesos de almacenado y trabaje el modelo Solid tal y como solicitaste.
+
+Hay pagina de Login
+
+Todos los portales tienen CRUD 
+
+El codigo tiene errores, pero funciona.
